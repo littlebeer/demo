@@ -4,7 +4,7 @@ var smarketDemo = require('../index');
 describe('smarket-demo', function() {
 
   it('normal usage', function() {
-
+      alert("d");      
   });
 
 });

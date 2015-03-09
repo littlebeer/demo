@@ -1,7 +1,7 @@
 {
-  "name": "smarket-demo",
+  "name": "smarket-component",
   "version": "1.0.0",
-  "description": "demo package",
+  "description": "base component package",
   "keywords": [],
   "homepage": "",
   "author": "dragon dragon@sinobasedm.com",
@@ -14,8 +14,9 @@
   },
   "licenses": "MIT",
   "spm": {
-    "main": "index.js",
+    "main": "smarket-component.js",
     "dependencies": {
+         "arale-widget": "1.2.0"
     },
     "devDependencies": {
       "expect.js": "0.3.1"

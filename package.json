@@ -14,7 +14,7 @@
   },
   "licenses": "MIT",
   "spm": {
-    "main": "index.js",
+    "main": "smarket-component.js",
     "dependencies": {
          "arale-widget": "1.2.0"
     },

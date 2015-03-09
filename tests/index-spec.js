@@ -1,7 +1,7 @@
 var expect = require('expect.js');
-var smarketDemo = require('../index');
+var smarketDemo = require('../smarket-component');
 
-describe('smarket-demo', function() {
+describe('smarket-component', function() {
 
   it('normal usage', function() {
       alert("alert  info ！");      

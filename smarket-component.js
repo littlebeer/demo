@@ -1,4 +1,3 @@
-var Widget = require('arale-widget')
-var SmarketComponent=Widget.extend();
-
+var Widget = require('arale-widget');
+var SmarketComponent = Widget.extend();
 module.exports = SmarketComponent;
